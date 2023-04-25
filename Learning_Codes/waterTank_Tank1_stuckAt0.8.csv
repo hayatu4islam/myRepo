@@ -1,4 +1,4 @@
-time,Tank3OutFlow,Tank2.level,wt3_valve,Tank1WaterLevel,Tank2WaterLevel,Tank2OutFlow
+Time,Tank3OutFlow,Tank2.level,wt3_valve,Tank1WaterLevel,Tank2WaterLevel,Tank2OutFlow
 0,0,0,0,1.00E-06,0,0
 0.05,0,0,0,6.89E-07,3.11E-07,0
 0.1,0,0,0,0.003333928,4.05E-07,0
